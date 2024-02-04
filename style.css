@@ -707,7 +707,7 @@ section:nth-child(odd) .animate.scroll,
 }
 
 /*BREAKPOINT*/
-@media (max-width: 1200px){
+@media (max-width: 768px){
     html {
         font-size: 55%;
     }
