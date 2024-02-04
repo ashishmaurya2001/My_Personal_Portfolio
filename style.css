@@ -713,7 +713,7 @@ section:nth-child(odd) .animate.scroll,
     }
 }
 
-@media (max-width: 991px){
+@media (max-width: 768px){
     .header {
         padding: 2rem 4%;
     }
